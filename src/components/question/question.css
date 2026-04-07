@@ -1,0 +1,39 @@
+.question {
+    padding: 20px;
+    margin-top: 90px;
+}
+
+.question .continer h4 {
+    position: relative;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.question .continer h4::before {
+    content: "";
+    position: absolute;
+    width: 10%;
+    height: 3px;
+    background-color: green;
+    bottom: 0px;
+    left: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 10px;
+}
+
+.question .content .box {
+    background-color: #FFFFFF;
+    padding: 60px 40px 40px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    margin: 20px 0;
+    position: relative;
+    transition: 2s;
+}
+
+.question .content .box:hover {
+    padding-top: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,27 @@
+.company {
+    padding: 20px;
+    margin-top: 90px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px
+}
+
+.company .continer h4 {
+    position: relative;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.company .continer h4::before {
+    content: "";
+    position: absolute;
+    width: 10%;
+    height: 3px;
+    background-color: green;
+    bottom: 0px;
+    left: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 10px;
+}

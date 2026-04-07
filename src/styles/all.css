@@ -1,0 +1,9 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Cairo", sans-serif;
+    background-color: red;
+    height: 200vh;
+}
