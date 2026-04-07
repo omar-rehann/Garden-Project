@@ -58,4 +58,4 @@ Modern Green Company is a company focused on providing eco-friendly products and
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/modern-green-company.git
+git clone https://github.com/omar-rehann/Garden-Project.git
