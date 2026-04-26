@@ -11,7 +11,7 @@ import Footer from "./components/footer/footer";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/Garden-Project">
           <Header/>
       <Routes>
         <Route path="*" element={<Homepage/>} />
