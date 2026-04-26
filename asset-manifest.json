@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/omar-rehann/Garden-Project/static/css/main.18cbbcfa.css",
-    "main.js": "/omar-rehann/Garden-Project/static/js/main.30ac4576.js",
-    "static/media/poster.png": "/omar-rehann/Garden-Project/static/media/poster.a08a594122ff5a0c521e.png",
-    "static/media/projectfour.avif": "/omar-rehann/Garden-Project/static/media/projectfour.fa968d474fdac8bc4c5c.avif",
-    "static/media/projectthree.avif": "/omar-rehann/Garden-Project/static/media/projectthree.45ab83b3c165625b918e.avif",
-    "static/media/projectsix.avif": "/omar-rehann/Garden-Project/static/media/projectsix.b80f2bc800101fe08b51.avif",
-    "static/media/projectseven.avif": "/omar-rehann/Garden-Project/static/media/projectseven.0ced33e6a42b8842ae93.avif",
-    "static/media/projectfive.avif": "/omar-rehann/Garden-Project/static/media/projectfive.fdbd1af89da7ceeb609c.avif",
-    "static/media/project1.webp": "/omar-rehann/Garden-Project/static/media/project1.bb0dbdae26b0640bc097.webp",
-    "static/media/project2.webp": "/omar-rehann/Garden-Project/static/media/project2.daf5a939d5391b3d422d.webp",
-    "index.html": "/omar-rehann/Garden-Project/index.html",
-    "main.18cbbcfa.css.map": "/omar-rehann/Garden-Project/static/css/main.18cbbcfa.css.map",
-    "main.30ac4576.js.map": "/omar-rehann/Garden-Project/static/js/main.30ac4576.js.map"
+    "main.css": "/Garden-Project/static/css/main.77156b26.css",
+    "main.js": "/Garden-Project/static/js/main.dbf70405.js",
+    "static/media/poster.png": "/Garden-Project/static/media/poster.a08a594122ff5a0c521e.png",
+    "static/media/projectfour.avif": "/Garden-Project/static/media/projectfour.fa968d474fdac8bc4c5c.avif",
+    "static/media/projectthree.avif": "/Garden-Project/static/media/projectthree.45ab83b3c165625b918e.avif",
+    "static/media/projectsix.avif": "/Garden-Project/static/media/projectsix.b80f2bc800101fe08b51.avif",
+    "static/media/projectseven.avif": "/Garden-Project/static/media/projectseven.0ced33e6a42b8842ae93.avif",
+    "static/media/projectfive.avif": "/Garden-Project/static/media/projectfive.fdbd1af89da7ceeb609c.avif",
+    "static/media/project1.webp": "/Garden-Project/static/media/project1.bb0dbdae26b0640bc097.webp",
+    "static/media/project2.webp": "/Garden-Project/static/media/project2.daf5a939d5391b3d422d.webp",
+    "index.html": "/Garden-Project/index.html",
+    "main.77156b26.css.map": "/Garden-Project/static/css/main.77156b26.css.map",
+    "main.dbf70405.js.map": "/Garden-Project/static/js/main.dbf70405.js.map"
   },
   "entrypoints": [
-    "static/css/main.18cbbcfa.css",
-    "static/js/main.30ac4576.js"
+    "static/css/main.77156b26.css",
+    "static/js/main.dbf70405.js"
   ]
 }
